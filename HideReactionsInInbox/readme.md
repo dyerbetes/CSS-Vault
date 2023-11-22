@@ -1,4 +1,4 @@
-#Hide Reactions In Inbox
+# Hide Reactions In Inbox
 
 Self Explanatory
 
