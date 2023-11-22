@@ -2,4 +2,4 @@
 
 Self Explanatory
 
-Sourced from Kerberos [ Voidloops ]
+Sourced from Kerberos [ Voidloops ] from Vencord Server on Discord
