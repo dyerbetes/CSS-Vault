@@ -1,0 +1,58 @@
+/* user panel + spotify activity rounded +  vc connected */
+[class^='sidebar_'] [class^='panels_'] [class^='container_'],
+[class^='sidebar_'] [class^='panels_'] [class^='panel_'] {
+  background-color: var(--background-secondary-alt);
+  border-radius: 20px;
+  margin: 8px;
+}
+[class^='sidebar_']
+  [class^='panels_']
+  [class^='container_']
+  [class^='avatarWrapper_']
+  + [class^='flex_'] {
+  margin-left: 0px;
+}
+#vc-spotify-player {
+  border-radius: 20px;
+  border-bottom: 0;
+  background-color: var(--background-secondary-alt);
+  margin: 8px;
+  margin-bottom: -5px;
+}
+.panels__58331 {
+  background-color: unset;
+  margin-bottom: -2px;
+}
+#vc-spotify-album-image {
+  border-radius: 16px;
+  transition: 300ms ease-in-out;
+}
+#vc-spotify-album-image:hover {
+  transform: scale(1.25);
+}
+.withTagAsButton_cc125f:hover,
+.withTagless__98b7d:hover {
+  border-radius: 16px;
+}
+
+.actionButtons_b58cbb > button,
+.button__66e8c {
+  border-radius: 20px;
+}
+.contents_fb6220 {
+  display: flex;
+}
+.panels__58331 .avatarWrapper_ba5175 {
+    width: 100%;
+    margin: 0 !important;
+    padding: 4px;
+    box-sizing: border-box;
+    border-radius: 18px;
+    cursor: pointer;
+}
+.wrapper__0ed4a {
+  margin-bottom: -5px
+}
+.activityPanel__22355 {
+  margin-bottom: -5px !important;
+}
